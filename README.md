@@ -1,11 +1,12 @@
-<h2 align="left">Hi 👋! I'm a Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and currently a Computer Science student at Sindh Madressatul Islam University.</h2>
+<div style="background-color: #2563eb; padding: 50px; color:white;">
+   <h4 align="left">Hi 👋! I'm a Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and currently a Computer Science student at Sindh Madressatul Islam University.</h4>
 
 ###
-<h2 align="left">I'm Abdul Fatah Chandio— a passionate Full Stack Developer in the making, specializing in Node.js for backend development and building expertise in the MERN Stack (MongoDB, Express.js, React, Node.js).
+<h5 align="left">I'm Abdul Fatah Chandio— a passionate Full Stack Developer in the making, specializing in Node.js for backend development and building expertise in the MERN Stack (MongoDB, Express.js, React, Node.js).
 Currently a Computer Science student at Sindh Madressatul Islam University, I love solving real-world problems through clean, scalable code. 
 
 I'm deeply interested in backend development, API design, authentication systems, and creating responsive, user-friendly web applications.
-I'm continuously learning and leveling up my skills to become a complete software engineer and contribute to impactful projects.</h2>
+I'm continuously learning and leveling up my skills to become a complete software engineer and contribute to impactful projects.</h5>
 
 ###
 
@@ -72,3 +73,13 @@ I'm continuously learning and leveling up my skills to become a complete softwar
 - Contribute to Open Source
 - Build Scalable Full Stack Projects
 - Dive deeper into AI + Backend Integration
+</div>
+
+
+
+
+
+
+
+
+
