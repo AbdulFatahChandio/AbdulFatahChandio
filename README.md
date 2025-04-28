@@ -1,5 +1,5 @@
 <div style="background-color: #1f2937; padding: 50px; color:white;">
-   <h2 align="left">Hi 👋! I'm Abdul Fatah Chandio.</h2>
+   <h2 align="center">Hi 👋! I'm Abdul Fatah Chandio.</h2>
 
 ###
 <h3 align="left">I'm Abdul Fatah Chandio— a passionate Full Stack Developer in the making, specializing in Node.js for backend development and building expertise in the MERN Stack (MongoDB, Express.js, React, Node.js).
