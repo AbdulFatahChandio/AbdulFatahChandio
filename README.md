@@ -15,7 +15,6 @@ I'm continuously learning and leveling up my skills to become a complete softwar
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif" />
 
 ###
 
