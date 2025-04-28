@@ -1,17 +1,10 @@
-<h2 align="left">Hi 👋! I'm a **Full Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and currently a **Computer Science** student at **Sindh Madressatul Islam University**.</h2>
+<h2 align="left">Hi 👋! I'm a Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and currently a Computer Science student at Sindh Madressatul Islam University.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulFatahChandio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulFatahChandio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding Animation" />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
