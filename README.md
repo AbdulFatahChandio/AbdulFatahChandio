@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋! I'm a Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and currently a Computer Science student at Sindh Madressatul Islam University.</h2>
 
 ###
+<h2 align="left">I'm Abdul Fatah Chandio— a passionate Full Stack Developer in the making, specializing in Node.js for backend development and building expertise in the MERN Stack (MongoDB, Express.js, React, Node.js).
+Currently a Computer Science student at Sindh Madressatul Islam University, I love solving real-world problems through clean, scalable code. 
+
+I'm deeply interested in backend development, API design, authentication systems, and creating responsive, user-friendly web applications.
+I'm continuously learning and leveling up my skills to become a complete software engineer and contribute to impactful projects.</h2>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulFatahChandio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph"  />
@@ -15,6 +22,9 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
+  <img width="12" /> 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
@@ -52,11 +62,6 @@
   </a>
 </div>
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AbdulFatahChandio/AbdulFatahChandio/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ## 📚 Currently Learning
