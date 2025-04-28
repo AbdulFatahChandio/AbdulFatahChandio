@@ -1,4 +1,4 @@
-<div style="background-color: #2563eb; padding: 50px; color:white;">
+<div style="background-color: #1f2937; padding: 50px; color:white;">
    <h4 align="left">Hi 👋! I'm a Full Stack Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and currently a Computer Science student at Sindh Madressatul Islam University.</h4>
 
 ###
