@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a passionate Full Stack Developer and a 3rd semester Software Engineering student at Sindh Madarastul Islam University. I specialize in backend development with Node.js and am currently building deep expertise in the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>🔧 I love turning ideas into real-world, scalable web applications with clean code and user-friendly interfaces.<br>🛠️ Comfortable with JavaScript, HTML, CSS, Java, and C, and always up for learning new technologies.<br>🔐 I’m particularly interested in authentication, password security, and building robust login systems.<br>📚 Currently enrolled in the AI track of PIAIC, diving into the world of Artificial Intelligence.
+<h1 style="text-align: center">💫I'm Abdul Fatah Chandio</h1>
+<h3>I'm a passionate Full Stack Developer and a 3rd semester Software Engineering student at Sindh Madarastul Islam University. I specialize in backend development with Node.js and am currently building deep expertise in the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>🔧 I love turning ideas into real-world, scalable web applications with clean code and user-friendly interfaces.<br>🛠️ Comfortable with JavaScript, HTML, CSS, Java, and C, and always up for learning new technologies.<br>🔐 I’m particularly interested in authentication, password security, and building robust login systems.<br>📚 Currently enrolled in the AI track of PIAIC, diving into the world of Artificial Intelligence.</h3>
 
 
 ## 🌐 Socials:
