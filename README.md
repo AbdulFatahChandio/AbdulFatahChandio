@@ -2,7 +2,29 @@
   <h1 align="center">💫 I'm Abdul Fatah Chandio</h1>
 </p>
 
-<h3>I'm a passionate Full Stack Developer and a second year computer science student at Sindh Madarastul Islam University. I specialize in backend development with Node.js and am currently building deep expertise in the MERN stack (MongoDB, Express.js, React, Node.js).<br><br>🔧 I love turning ideas into real-world, scalable web applications with clean code and user-friendly interfaces.<br>🛠️ Comfortable with JavaScript, HTML, CSS, Java, and C, and always up for learning new technologies.<br>🔐 I’m particularly interested in authentication, password security, and building robust login systems.<br>📚 Currently enrolled in the AI track of PIAIC, diving into the world of Artificial Intelligence.</h3>
+<!-- Introduction -->
+<section>
+  <h2 align="center">About Me</h2>
+  <p align="center">
+    I'm a passionate Full Stack Developer and a second-year Computer Science student at Sindh Madarastul Islam University.<br>
+    I specialize in backend development with Node.js and am currently building deep expertise in the MERN stack (MongoDB, Express.js, React, Node.js).
+  </p>
+</section>
+
+<!-- Get to Know Me -->
+<section style="margin-top: 30px;">
+  <h3 align="center">🚀 Get to Know Me</h3>
+  <ul align="center">
+    <li>🚀 I’m currently enhancing my coding skills and delving into new technologies.</li>
+    <li>🌱 Currently learning: <strong>Node.js & React.js</strong></li>
+    <li>💡 Interested in collaborating on projects that push boundaries and inspire creativity.</li>
+    <li>🤝 Open to learning new programming languages or technology stacks.</li>
+    <li>📚 Check out my projects at <a href="https://github.com/AbdulFatahChandio/AbdulFatahChandio">GitHub</a>.</li>
+    <li>📫 Reach me at <a href="mailto:abdulfatahchandio010@gmail.com">abdulfatahchandio010@gmail.com</a>.</li>
+    <li>📄 Explore my experiences at <a href="https://abdul-fatah-chandio.vercel.app/">Portfolio</a>.</li>
+    <li>⚡ Fun fact: The first website ever created is still online! Visit it <a href="https://afc-food.vercel.app/">here</a>.</li>
+  </ul>
+</section>
 
 
 ## 🌐 Socials:
@@ -18,4 +40,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdulFatahChandio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
