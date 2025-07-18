@@ -6,7 +6,7 @@
 <section>
   <h2 align="center">About Me</h2>
   <p align="center">
-    I'm a passionate Full Stack Developer and a second-year Computer Science student at Sindh Madarastul Islam University.<br>
+    I'm a passionate Full Stack Developer and a 3rd-year Computer Science student at Sindh Madarastul Islam University.<br>
     I specialize in backend development with Node.js and am currently building deep expertise in the MERN stack (MongoDB, Express.js, React, Node.js).
   </p>
 </section>
